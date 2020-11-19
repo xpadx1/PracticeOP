@@ -17,4 +17,4 @@ for (let i=0; i < len; i++) {
       bool++
     }
 }
-console.log(` String: ${str}\n Boolean: ${bool}\n Number: ${num} `) 
+console.log(` String: ${str}\n Boolean: ${bool}\n Number: ${num} `)
