@@ -1,6 +1,6 @@
-# PracticeOP
+# Practice programming basics
  
-Practicing my js skills
+Practicing my javascript skills by [tshemsedinov's guide](https://github.com/HowProgrammingWorks/Index/blob/master/Practice/SEF1.ru.md)
 
 [1 - Data Types](https://github.com/xpadx1/PracticeOP/tree/main/1%20-%20Data%20types)
 
