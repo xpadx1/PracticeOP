@@ -11,3 +11,7 @@ Practicing my javascript skills by [tshemsedinov's guide](https://github.com/How
 [4 - Loops & iterations](https://github.com/xpadx1/PracticeOP/tree/main/4%20-%20Loops%20%26%20iterations)
 
 [5 - Closures & ladders](https://github.com/xpadx1/PracticeOP/tree/main/5%20-%20Closures%20%26%20ladders)
+
+[6 - Composition](https://github.com/xpadx1/PracticeOP/tree/main/6%20-%20Composition)
+
+[7 - Arrays](https://github.com/xpadx1/PracticeOP/tree/main/7%20-%20Arrays)
