@@ -1,25 +1,23 @@
 function difference(arr1, arr2){
-    let value;
-    let result = [];
-    let j = 0;
-    
-    if (arr1.length<=arr2.length){
-        value = arr1.length;
-    }else if(arr1.length>=arr2.length){
-        value = arr2.length;
+    let i = 0
+    let result = arr1
+    for (i = 0; i < arr2.length;i++){
+        result.push(arr2[i])
     }
-    for (let i = 0; i<value;i++){
-        if (arr1[j]!=arr2[i]){
-            result.push(arr2[i]);
-            j++;
-        }else{
+    result.sort();
+    
+    for (let j = 0; j <= result.length; j++ ){
+        
+        if (result[j] === result[j+1]){
+            result.splice(j+1,1);
+            
+        }
+        else{
             continue;
         }
     }
     console.log(result)
 }
-
-
 
 
 const array1 = [7, -2, 10, 5, 0];
