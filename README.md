@@ -15,3 +15,5 @@ Practicing my javascript skills by [tshemsedinov's guide](https://github.com/How
 [6 - Composition](https://github.com/xpadx1/PracticeOP/tree/main/6%20-%20Composition)
 
 [7 - Arrays](https://github.com/xpadx1/PracticeOP/tree/main/7%20-%20Arrays)
+
+[8 - Higher order functions](https://github.com/xpadx1/PracticeOP/tree/main/8%20-%20Higher%20order%20functions)
