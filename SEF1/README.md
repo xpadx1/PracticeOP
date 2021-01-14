@@ -1,4 +1,4 @@
-# Practice programming basics
+# Practice programming basics. First module
  
 Practicing my javascript skills by [tshemsedinov's guide](https://github.com/HowProgrammingWorks/Index/blob/master/Practice/SEF1.ru.md)
 
