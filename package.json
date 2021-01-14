@@ -1,0 +1,25 @@
+{
+  "name": "PracticeOP",
+  "version": "1.0.0",
+  "description": "Practicing my javascript skills by [tshemsedinov's guide](https://github.com/HowProgrammingWorks/Index/blob/master/Practice/SEF1.ru.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpadx1/PracticeOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xpadx1/PracticeOP/issues"
+  },
+  "homepage": "https://github.com/xpadx1/PracticeOP#readme",
+  "devDependencies": {
+    "cls": "^0.1.5",
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb": "^18.2.1"
+  }
+}
